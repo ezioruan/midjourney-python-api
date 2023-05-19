@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "midjourney-python-api"
+version = "0.1.0"
+description = ""
+authors = ["ezioruan <ezioruan@gmail.com>"]
+readme = "README.md"
+packages = [{include = "midjourney"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+discum = {git = "https://github.com/Merubokkusu/Discord-S.C.U.M.git", rev = "master"}
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
