@@ -20,7 +20,8 @@
 ### 通过 pip
 ```bash
 # 使用 pip，创建虚拟环境
-python -m .venv
+python -m venv .venv
+source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
