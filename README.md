@@ -22,7 +22,7 @@ This is a Python client for the unofficial MidJourney API, This implementation u
 #### by pip
 ```bash
 # use pip, create visual env
-python -m .venv
+python -m venv .venv
 pip install -r requirements.txt
 ```
 
