@@ -97,7 +97,6 @@ The program flow is as follows:
 5. After receiving the task, the subprocess will call its internal function to execute.
 
 6. The execution result is listened via WSS, then sent externally via Redis queue.
-```
 
 ![workflow](chart/flow.jpg)
 ![program](chart/program.jpg)
