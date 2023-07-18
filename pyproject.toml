@@ -1,14 +1,13 @@
 [tool.poetry]
-name = "midjourney-python-api"
+name = "midjounery-python-sdk"
 version = "0.1.0"
-description = ""
+description = "Python client for the unofficial MidJourney API."
 authors = ["ezioruan <ezioruan@gmail.com>"]
 readme = "README.md"
-packages = [{include = "midjourney"}]
+packages = [{include = "midjounery_python_sdk"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
-discum = {git = "https://github.com/Merubokkusu/Discord-S.C.U.M.git", rev = "master"}
 
 
 [build-system]
