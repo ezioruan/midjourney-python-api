@@ -84,6 +84,11 @@ Python 程序会开启两个线程：
 6. 执行结果通过 WSS 监听，然后通过 Redis 的队列发送到外部。
 
 
+## 工作流程图
 ![workflow](chart/flow.jpg)
+
+## 程序结构图
 ![program](chart/program.jpg)
-![image]((https://github.com/ezioruan/midjourney-python-api/assets/631411/99274e48-c3ff-442e-a515-f48b335d3db9)
+
+## 交流群
+![image](https://github.com/ezioruan/midjourney-python-api/assets/631411/99274e48-c3ff-442e-a515-f48b335d3db9)
