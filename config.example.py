@@ -13,5 +13,6 @@ ACCOUNT_LIST = [
         "token": "",
         "application_id": "",
         "channel_id": "",
+        "guild_id" : "",
     }
 ]
